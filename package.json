@@ -1,0 +1,25 @@
+{
+  "name": "timocidiscordbot",
+  "version": "1.0.0",
+  "description": "a multipurpose discord bot ",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node dist/index.js"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "discord",
+    "bot",
+    "multipurpose",
+    "bot"
+  ],
+  "author": "Nik",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "mongodb": "^6.3.0",
+    "typescript": "^5.3.2"
+  }
+}
